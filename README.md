@@ -12,7 +12,7 @@ We show several samples here for demonstrating our model's ability of generating
       <img src="/videos/real_data_videos/sample_1.gif" alt="GIF 1"> <width="120" height="80">
       <p> <strong> Real video from the dataset </strong> </p>
     </td>
-    <td style="padding-left: 50px;">
+    <td style="padding-left: 100px;">
       <img src="/videos/generated videos/sample_1_1.gif" alt="GIF 2"> <width="120" height="80">
       <p> Generated video 1 </p>
     </td>
