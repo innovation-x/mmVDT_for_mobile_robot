@@ -17,11 +17,12 @@ We show several samples here for demonstrating our model's ability of generating
       <p> Generated video 1 </p>
     </td>
     <td>
-      <img src="/videos/generated videos/sample_1_2.gif" alt="GIF 3">
+      <img src="/videos/generated videos/sample_1_2.gif" alt="GIF 3"> <width="120" height="80">
       <p> Generated video 2 </p>
     </td>
     <td>
       <img src="/videos/generated videos/sample_1_3.gif" alt="GIF 4">
+      <width="120" height="80">
       <p> Generated video 3 </p>
     </td>
   </tr>
