@@ -13,15 +13,15 @@ We show several samples here for demonstrating our model's ability of generating
       <p> Real video from the dataset </p>
     </td>
     <td style="padding-left: 50px;">
-      <img src="path/to/output2.gif" alt="Explanation for GIF 2"> <width="120" height="80">
+      <img src="/videos/generated videos/sample_1_1.gif" alt="GIF 2"> <width="120" height="80">
       <p> Generated video 1 </p>
     </td>
     <td>
-      <img src="path/to/output3.gif" alt="Explanation for GIF 3">
+      <img src="/videos/generated videos/sample_1_2.gif" alt="GIF 3">
       <p> Generated video 2 </p>
     </td>
     <td>
-      <img src="path/to/output4.gif" alt="Explanation for GIF 4">
+      <img src="/videos/generated videos/sample_1_3.gif" alt="GIF 4">
       <p> Generated video 3 </p>
     </td>
   </tr>
